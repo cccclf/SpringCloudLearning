@@ -1,0 +1,4 @@
+/Users/chen/Library/SpringCloudlearning/cloud-consumer-feign-order80/src/main/java/com/chen/springcloud/config/FeignConfig.java
+/Users/chen/Library/SpringCloudlearning/cloud-consumer-feign-order80/src/main/java/com/chen/springcloud/controller/OrderFeignController.java
+/Users/chen/Library/SpringCloudlearning/cloud-consumer-feign-order80/src/main/java/com/chen/springcloud/service/PaymentFeignService.java
+/Users/chen/Library/SpringCloudlearning/cloud-consumer-feign-order80/src/main/java/com/chen/springcloud/OrderFeignMain80.java

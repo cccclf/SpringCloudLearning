@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="475ce03d-eea5-4257-8915-50c0efd56a71" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db2019@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db2019@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db2019@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db2019: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db2019@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db2019: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="payment: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/.maven_lib" />
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1nF8aNglfk7lrHO84XfJIbu9E0w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/chen/springcloud" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chen.springcloud.dao" />
+      <recent name="com.chen.springcloud.controller" />
+      <recent name="com.chen.springcloud" />
+      <recent name="com.chen.springcloud.entities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/chen/springcloud" />
+      <recent name="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources" />
+      <recent name="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/chen/springcloud" />
+      <recent name="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/chen/springcloud" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderHystrixMain80">
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-feign-order80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.springcloud.OrderFeignMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderHystrixMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-feign-hystrix-order80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.springcloud.OrderHystrixMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-hystrix-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.springcloud.PaymentHystrixMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OrderHystrixMain80" />
+        <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
+        <item itemvalue="Spring Boot.EurekaMain7001" />
+        <item itemvalue="Spring Boot.OrderFeignMain80" />
+        <item itemvalue="Spring Boot.PaymentMain8001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="完成" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="未开始" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="475ce03d-eea5-4257-8915-50c0efd56a71" name="默认更改列表" comment="" />
+      <created>1610974541327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610974541327</updated>
+      <workItem from="1610974544335" duration="388000" />
+      <workItem from="1610974956474" duration="654000" />
+      <workItem from="1610975710016" duration="414000" />
+      <workItem from="1610976161972" duration="401000" />
+      <workItem from="1610976849441" duration="13000" />
+      <workItem from="1610976969873" duration="688000" />
+      <workItem from="1611063212702" duration="1569000" />
+      <workItem from="1611144933262" duration="5937000" />
+      <workItem from="1611234296104" duration="1094000" />
+      <workItem from="1611235655004" duration="2056000" />
+      <workItem from="1611317418150" duration="5359000" />
+      <workItem from="1611401799589" duration="4210000" />
+      <workItem from="1611488780501" duration="3461000" />
+      <workItem from="1611573569549" duration="4217000" />
+      <workItem from="1611817347569" duration="3615000" />
+      <workItem from="1611897093155" duration="14000" />
+      <workItem from="1611904604730" duration="3416000" />
+      <workItem from="1612163224960" duration="2953000" />
+      <workItem from="1612255196418" duration="2069000" />
+      <workItem from="1612336666205" duration="5496000" />
+      <workItem from="1612423021466" duration="2753000" />
+      <workItem from="1612510363827" duration="2855000" />
+      <workItem from="1612939289205" duration="5583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1332" y="297" key="#EurekaMain7001_(1)" timestamp="1611491247533">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state x="-1332" y="297" key="#EurekaMain7001_(1)/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1611491247533" />
+    <state x="481" y="234" key="#Notifications" timestamp="1610975718339">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="481" y="234" key="#Notifications/-1866.138.1866.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1610975718339" />
+    <state x="-1418" y="323" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611234781955">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state x="-1418" y="323" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1611234781955" />
+    <state x="429" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1866.138.1866.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1611145853847" />
+    <state x="-1196" y="378" key="#com.intellij.ide.util.MemberChooser" timestamp="1612341882303">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state x="-1196" y="378" key="#com.intellij.ide.util.MemberChooser/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1612341882303" />
+    <state x="642" y="272" key="#com.intellij.ide.util.MemberChooser/-1866.138.1866.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1611146641946" />
+    <state x="-1371" y="600" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1612341935437">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state x="-1371" y="600" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1612341935437" />
+    <state x="-1364" y="341" key="#项目结构" timestamp="1612167446569">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state x="-1364" y="341" key="#项目结构/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1612167446569" />
+    <state x="481" y="234" key="#项目结构/-1866.138.1866.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1610977299328" />
+    <state width="1079" height="284" key="GridCell.Tab.0.bottom" timestamp="1612945727950">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state width="1079" height="284" key="GridCell.Tab.0.bottom/-1856.138.1856.1057/0.23.1792.1097@-1856.138.1856.1057" timestamp="1612434862543" />
+    <state width="1079" height="284" key="GridCell.Tab.0.bottom/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1612945727950" />
+    <state width="1079" height="284" key="GridCell.Tab.0.bottom/-1866.138.1866.1057/0.23.1792.1097@-1866.138.1866.1057" timestamp="1612943187956" />
+    <state width="1571" height="284" key="GridCell.Tab.0.bottom/-1866.138.1866.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1610977850141" />
+    <state width="1571" height="284" key="GridCell.Tab.0.bottom/-1868.138.1868.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1610974683137" />
+    <state width="1079" height="284" key="GridCell.Tab.0.center" timestamp="1612945727948">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state width="1079" height="284" key="GridCell.Tab.0.center/-1856.138.1856.1057/0.23.1792.1097@-1856.138.1856.1057" timestamp="1612434862542" />
+    <state width="1079" height="284" key="GridCell.Tab.0.center/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1612945727948" />
+    <state width="1079" height="284" key="GridCell.Tab.0.center/-1866.138.1866.1057/0.23.1792.1097@-1866.138.1866.1057" timestamp="1612943187956" />
+    <state width="1571" height="284" key="GridCell.Tab.0.center/-1866.138.1866.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1610977850139" />
+    <state width="1571" height="284" key="GridCell.Tab.0.center/-1868.138.1868.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1610974683136" />
+    <state width="1079" height="284" key="GridCell.Tab.0.left" timestamp="1612945727948">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state width="1079" height="284" key="GridCell.Tab.0.left/-1856.138.1856.1057/0.23.1792.1097@-1856.138.1856.1057" timestamp="1612434862542" />
+    <state width="1079" height="284" key="GridCell.Tab.0.left/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1612945727948" />
+    <state width="1079" height="284" key="GridCell.Tab.0.left/-1866.138.1866.1057/0.23.1792.1097@-1866.138.1866.1057" timestamp="1612943187955" />
+    <state width="1571" height="284" key="GridCell.Tab.0.left/-1866.138.1866.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1610977850138" />
+    <state width="1571" height="284" key="GridCell.Tab.0.left/-1868.138.1868.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1610974683135" />
+    <state width="1079" height="284" key="GridCell.Tab.0.right" timestamp="1612945727949">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state width="1079" height="284" key="GridCell.Tab.0.right/-1856.138.1856.1057/0.23.1792.1097@-1856.138.1856.1057" timestamp="1612434862542" />
+    <state width="1079" height="284" key="GridCell.Tab.0.right/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1612945727949" />
+    <state width="1079" height="284" key="GridCell.Tab.0.right/-1866.138.1866.1057/0.23.1792.1097@-1866.138.1866.1057" timestamp="1612943187956" />
+    <state width="1571" height="284" key="GridCell.Tab.0.right/-1866.138.1866.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1610977850140" />
+    <state width="1571" height="284" key="GridCell.Tab.0.right/-1868.138.1868.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1610974683136" />
+    <state width="1079" height="284" key="GridCell.Tab.1.bottom" timestamp="1612945727951">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state width="1079" height="284" key="GridCell.Tab.1.bottom/-1856.138.1856.1057/0.23.1792.1097@-1856.138.1856.1057" timestamp="1612434862544" />
+    <state width="1079" height="284" key="GridCell.Tab.1.bottom/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1612945727951" />
+    <state width="1079" height="284" key="GridCell.Tab.1.bottom/-1866.138.1866.1057/0.23.1792.1097@-1866.138.1866.1057" timestamp="1612943187958" />
+    <state width="1079" height="284" key="GridCell.Tab.1.center" timestamp="1612945727950">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state width="1079" height="284" key="GridCell.Tab.1.center/-1856.138.1856.1057/0.23.1792.1097@-1856.138.1856.1057" timestamp="1612434862543" />
+    <state width="1079" height="284" key="GridCell.Tab.1.center/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1612945727950" />
+    <state width="1079" height="284" key="GridCell.Tab.1.center/-1866.138.1866.1057/0.23.1792.1097@-1866.138.1866.1057" timestamp="1612943187957" />
+    <state width="1079" height="284" key="GridCell.Tab.1.left" timestamp="1612945727950">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state width="1079" height="284" key="GridCell.Tab.1.left/-1856.138.1856.1057/0.23.1792.1097@-1856.138.1856.1057" timestamp="1612434862543" />
+    <state width="1079" height="284" key="GridCell.Tab.1.left/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1612945727950" />
+    <state width="1079" height="284" key="GridCell.Tab.1.left/-1866.138.1866.1057/0.23.1792.1097@-1866.138.1866.1057" timestamp="1612943187957" />
+    <state width="1079" height="284" key="GridCell.Tab.1.right" timestamp="1612945727951">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state width="1079" height="284" key="GridCell.Tab.1.right/-1856.138.1856.1057/0.23.1792.1097@-1856.138.1856.1057" timestamp="1612434862543" />
+    <state width="1079" height="284" key="GridCell.Tab.1.right/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1612945727951" />
+    <state width="1079" height="284" key="GridCell.Tab.1.right/-1866.138.1866.1057/0.23.1792.1097@-1866.138.1866.1057" timestamp="1612943187957" />
+    <state width="1079" height="284" key="GridCell.Tab.2.bottom" timestamp="1611491704254">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state width="1079" height="284" key="GridCell.Tab.2.bottom/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1611491704254" />
+    <state width="1079" height="284" key="GridCell.Tab.2.center" timestamp="1611491704254">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state width="1079" height="284" key="GridCell.Tab.2.center/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1611491704254" />
+    <state width="1079" height="284" key="GridCell.Tab.2.left" timestamp="1611491704254">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state width="1079" height="284" key="GridCell.Tab.2.left/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1611491704254" />
+    <state width="1079" height="284" key="GridCell.Tab.2.right" timestamp="1611491704254">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state width="1079" height="284" key="GridCell.Tab.2.right/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1611491704254" />
+    <state x="-1529" y="236" key="SettingsEditor" timestamp="1611235766735">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state x="-1529" y="236" key="SettingsEditor/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1611235766735" />
+    <state x="322" y="125" key="SettingsEditor/-1866.138.1866.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1610975698858" />
+    <state width="521" height="456" key="SwitcherDM" timestamp="1612944936144">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state width="519" height="456" key="SwitcherDM/-1856.138.1856.1057/0.23.1792.1097@-1856.138.1856.1057" timestamp="1612434038396" />
+    <state width="521" height="456" key="SwitcherDM/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1612944936144" />
+    <state width="500" height="455" key="SwitcherDM/-1866.138.1866.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1611147314029" />
+    <state width="521" height="436" key="SwitcherDM/-1866.138.1866.1057/0.23.1792.1097@-1866.138.1866.1057" timestamp="1612942401096" />
+    <state width="500" height="445" key="SwitcherDM/-1866.138.1866.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1611146436543" />
+    <state width="500" height="455" key="SwitcherDM/-1920.115.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1611148102030" />
+    <state x="567" y="361" key="com.intellij.database.dbimport.ImportUtil.MyDialog" timestamp="1611145993315">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="567" y="361" key="com.intellij.database.dbimport.ImportUtil.MyDialog/-1866.138.1866.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1611145993315" />
+    <state x="566" y="240" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1611145938009">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="566" y="240" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/-1866.138.1866.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1611145938009" />
+    <state x="-1222" y="494" key="com.intellij.ide.util.TipDialog" timestamp="1611897093465">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state x="-1222" y="494" key="com.intellij.ide.util.TipDialog/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1611897093465" />
+    <state x="617" y="392" key="com.intellij.ide.util.TipDialog/-1864.138.1864.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1611144962928" />
+    <state x="617" y="392" key="com.intellij.ide.util.TipDialog/-1866.138.1866.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1611063215641" />
+    <state x="-1606" y="381" key="new project wizard" timestamp="1612944010447">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state x="-1599" y="381" key="new project wizard/-1856.138.1856.1057/0.23.1792.1097@-1856.138.1856.1057" timestamp="1612433079548" />
+    <state x="-1606" y="381" key="new project wizard/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1612944010447" />
+    <state x="248" y="275" key="new project wizard/-1866.138.1866.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1611064347047" />
+    <state x="-1284" y="378" width="670" height="676" key="search.everywhere.popup" timestamp="1612340689017">
+      <screen x="-1864" y="138" width="1864" height="1057" />
+    </state>
+    <state x="-1284" y="378" width="670" height="676" key="search.everywhere.popup/-1864.138.1864.1057/0.23.1792.1097@-1864.138.1864.1057" timestamp="1612340689017" />
+  </component>
+</project>
