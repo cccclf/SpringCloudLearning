@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="475ce03d-eea5-4257-8915-50c0efd56a71" name="默认更改列表" comment="" />
+    <list default="true" id="475ce03d-eea5-4257-8915-50c0efd56a71" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/chen/springcloud/controller/OrderHystrixController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/chen/springcloud/controller/OrderHystrixController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +55,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -73,6 +78,7 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1nF8aNglfk7lrHO84XfJIbu9E0w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -250,7 +256,7 @@
       <workItem from="1612336666205" duration="5496000" />
       <workItem from="1612423021466" duration="2753000" />
       <workItem from="1612510363827" duration="2855000" />
-      <workItem from="1612939289205" duration="5583000" />
+      <workItem from="1612939289205" duration="5923000" />
     </task>
     <servers />
   </component>
