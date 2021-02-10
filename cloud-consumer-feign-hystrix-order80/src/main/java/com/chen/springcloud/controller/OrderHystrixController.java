@@ -15,6 +15,7 @@ public class OrderHystrixController {
     @Resource
     private PaymentHystrixService paymentHystrixService;
 
+    //test-git
     @GetMapping(value = "/consumer/payment/hystrix/ok/{id}")
     public String paymentInfoOk(@PathVariable("id") Integer id){
         String result = paymentHystrixService.paymentInfoOk(id);
